@@ -1,6 +1,6 @@
 ### Model Documentation:
 
-The well documented path planning code implemented in main.py mainly consist of three parts:
+The well documented path planning code implemented in main.py mainly consistof three parts:
 
 #### Prediction:
 
